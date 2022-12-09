@@ -1,4 +1,3 @@
-# data_science_bootcamp_6
 
 # Bootcamp Projects
 
